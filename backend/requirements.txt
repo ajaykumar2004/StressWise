@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+pytz
+joblib
+google-generative-ai
+ipython
